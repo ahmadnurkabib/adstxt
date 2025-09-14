@@ -1,4 +1,15 @@
-#Ads.txt ahmadservicecenter.com
+async function handleRequest(request) {
+  const init = {
+    headers: {
+      'content-type': 'text/plain',
+    },
+  }
+  return new Response(adstxt, init)
+}
+addEventListener('fetch', event => {
+  return event.respondWith(handleRequest(event.request))
+})
+const adstxt =  `#Ads.txt ahmadservicecenter.com
 #Ads.txt managed by AdsTxtManager.com - the free ads.txt management tool for publishers
 ownerdomain=ahmadservicecenter.com
 contact=directsales@ezoic.com
@@ -4535,3 +4546,4 @@ zetaglobal.net, 7293207, RESELLER
 zetaglobal.net, 749, RESELLER
 zetaglobal.net, 762, RESELLER
 google.com, pub-3979314491876312, DIRECT, f08c47fec0942fa0
+`;
