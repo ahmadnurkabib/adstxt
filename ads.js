@@ -4546,4 +4546,30 @@ zetaglobal.net, 7293207, RESELLER
 zetaglobal.net, 749, RESELLER
 zetaglobal.net, 762, RESELLER
 google.com, pub-3979314491876312, DIRECT, f08c47fec0942fa0
+video.unrulymedia.com,2867656914,RESELLER
+rubiconproject.com,15268,RESELLER,0bfd66d529a55807
+rubiconproject.com,15268,DIRECT,0bfd66d529a55807
+pubmatic.com,159277,RESELLER
+pubmatic.com,159382,RESELLER
+pubmatic.com,161058,RESELLER,5d62403b186f2ace
+openx.com,543878511,RESELLER,6a698e2ec38604c6
+smaato.com,1100047589,RESELLER,07bcf65f187117b4
+inmobi.com,ba5fd3fb82c5412989b23c3eec71baf7,RESELLER,83e75a7ae333ca9d
+loopme.com,9718,RESELLER,6c8d5f95897a5a3b
+pubmatic,163963,RESELLER,5d62403b186f2ace
+google.com,pub-6726631800845520,DIRECT,f08c47fec0942fa0
+openx.com,559466726,RESELLER,6a698e2ec38604c6
+rubiconproject.com,22588,RESELLER,0bfd66d529a55807
+rubiconproject.com,22588,DIRECT,0bfd66d529a55807
+rubiconproject.com,22586,DIRECT,0bfd66d529a55807
+onetag.com,7f799d40d2e02a0,DIRECT
+onetag.com,7f799d40d2e02a0-OB,DIRECT
+themediagrid.com,TNS45R,DIRECT,35d5010d7789b49d
+rubiconproject.com,22586,RESELLER,0bfd66d529a55807
+google.com,pub-9875256246856607,RESELLER,f08c47fec0942fa0
+openx.com,560561911,RESELLER,6a698e2ec38604c6
+kargo.com,8955,DIRECT
+gliacloud.com,4508,DIRECT
+video.unrulymedia.com,586616193,RESELLER
 `;
+
